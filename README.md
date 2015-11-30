@@ -25,4 +25,4 @@ You can easily collapse and expand tree child by clicking on parent text
 
 ###I'm too lazy to do that, just give me a link
 
-No problem! You can see final result [https://graphoper.github.io/eu-web-challenge-viii-qualify/](here)
+No problem! You can see final result [here](https://graphoper.github.io/eu-web-challenge-viii-qualify/)
