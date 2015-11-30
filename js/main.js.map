@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\src\\js\\main.js"],"names":[],"mappings":";;AAAA,MAAM,CAAC,CAAC,QAAQ,EAAE,gBAAgB,CAAC,EAClC,UAAC,CAAC,EAAE,OAAO,EAAG;AACb,KAAI,GAAG,GAAG,IAAI,OAAO,EAAE,CAAC;CACxB,CAAC,CAAC","file":"main.js","sourcesContent":["define(['jquery', 'views/app.view'],\n\t($, AppView)=>{\n\t\tlet app = new AppView();\n\t});"]}
